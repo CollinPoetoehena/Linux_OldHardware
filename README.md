@@ -241,6 +241,10 @@ swap        4GB     swap    (equal to RAM for hibernation)
 /home       Rest    ext4    (user data)
 ```
 
+### Desktop Example
+After successful installation, you should see the Linux desktop environment. It may look different based on the distribution and desktop environment you chose (e.g., GNOME for Ubuntu, Xfce for Xubuntu). You can explore the interface, open the terminal, and start customizing your new Linux system! For example, Ubuntu Desktop looks like this:
+![Ubuntu Desktop](UbuntuDesktopScreenshot.png)
+
 ## Post-Installation Setup
 
 ### System Updates
