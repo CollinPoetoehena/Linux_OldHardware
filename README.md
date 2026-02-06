@@ -22,7 +22,7 @@ This experiment focuses on Windows machines only, as installing Linux on Macs in
    - [System Updates](#system-updates)
    - [Driver Installation](#driver-installation)
    - [Essential Software](#essential-software)
-8. [Fun Experiments & Learning Projects](#fun-experiments--learning-projects)
+8. [Fun Experiments & Learning Exercises Executed on Linux](#fun-experiments--learning-exercises-executed-on-linux)
    - [Container Technologies](#1-container-technologies)
    - [Kubernetes & Orchestration](#2-kubernetes--orchestration)
    - [Programming Languages](#3-programming-languages)
