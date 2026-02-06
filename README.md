@@ -304,6 +304,23 @@ sudo apt install htop neofetch gnome-tweaks
 - Use Software Center/App Store to browse and install applications
 - Look for: Browser (Firefox/Chrome), text editor, file manager extras
 
+### Restore Bootable USB back to normal use (optional):
+
+1. Insert the USB drive back into your computer
+2. Open File Explorer (Windows laptop or Linux does not really matter)
+3. Select your USB drive on the left
+4. Click the gear icon under the USB drive name and select Format
+5. Choose Format Partition…
+6. Select FAT32 (or exFAT if you want large file support) & Select overwrite existing data to get a clean USB drive
+7. Click Format
+
+If the USB has multiple partitions (common after using Rufus):
+1. Click the minus (–) button to delete each partition
+2. Then click the + button to create one new partition
+3. Format it as FAT32
+
+After that, the USB is completely normal again.
+
 ---
 
 ## Fun Experiments & Learning Exercises Executed on Linux
